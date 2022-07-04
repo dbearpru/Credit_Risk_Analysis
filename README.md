@@ -52,3 +52,10 @@ The purpose of this assignment is to see different machine learning techinques a
 1. Balanced Accuracy Score: .9254
 2. Precision: The precision is low for High-risk loans and high for low-risk loans.
 3. Recall: High/Low risk .91/.94
+
+
+# Summary 
+
+You want the highest balanced accuracy when working with machine learning. The Easy Ensemble AdaBoost Classifier had the highest with .9254.  It also had the highest recall score. This makes it the machine learning system I would choose going forward with this analysis.
+
+
